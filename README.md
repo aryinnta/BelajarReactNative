@@ -89,5 +89,6 @@ Dokumentasi ini dibuat untuk memenuhi kriteria penilaian **Tugas UTS Individu - 
 ## 👤 Pembuat
 
 * **Mata Kuliah**: IK300 Mobile Programming
+* * **Nama**: Arya Rayi Ananta
 * **Kelas**: KOM - 5A
 * **Status**: Tugas UTS Individu
